@@ -49,6 +49,14 @@ Detailed user testing sessions have been conducted to assess the usability and e
 
 # **Future Enhancements**
 
-- **Expansion of Meal Kits**: Increase the variety of meal kits offered to cater to diverse dietary preferences and cuisines.
-- **Advanced Personalization Options**: Further enhance the personalization of the shopping experience by using AI and machine learning to predict user preferences.
-- **Integration with Local and Sustainable Sources**: Partner with local farmers and sustainable sources to expand the range of eco-friendly products available.
+- **Add the Meal Kits Feature to Instacart**
+  - There is an overwhelmingly positive response from user testing for the feature, as well as an excellent business case.
+  - The Total Addressable Market for the meal kit delivery service in the US is $8.7 billion and growing at 15% CAGR. A significant portion of this market can be easily tapped into by Instacart through its existing user base.
+
+- **Refine and Implement the ecoScore Feature**
+  - The ecoScore feature helps attract eco-conscious customers as well as improve brand reputation.
+  - As per the user feedback received, the score calculations should be transparent to build more trust in the system amongst the users.
+
+- **Implement Personalized Homepage and Notifications**
+  - The personalized homepage has received positive feedback unanimously from our test users and implementing it will lead to a better user experience.
+  - Quirky notifications help nudge the user and result in more orders.
